@@ -1,7 +1,31 @@
-GNU GENERAL PUBLIC LICENSE
+
+ENGLISH - GNU GENERAL PUBLIC LICENSE
 Version 2, June 1991
 
-Copyright (C) 2024  MARCO TRAINA
+Copyright (C) 2024 MARCO TRAINA
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+In addition to the GNU General Public License, we offer some exceptions.
+
+### Additional Sections
+
+**Section 1**: This exception only applies to source code files distributed with this software that have been modified by the copyright holder.
+
+**Section 2**: There is no guarantee that this software will work with any version of other software or third-party programs.
+
+**Section 3**: This software may contain elements of software released under licenses other than the GNU General Public License. In such cases, the terms of those licenses apply to those software elements.
+
+For more details on the GNU General Public License, visit: [https://www.gnu.org/licenses/old-licenses/gpl-2.0.html](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+
+ITALIANO - GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+Copyright (C) 2024 MARCO TRAINA
 
 Questo programma è un software libero; puoi ridistribuirlo e/o modificarlo secondo i termini della Licenza Pubblica Generale GNU come pubblicata dalla Free Software Foundation; sia la versione 2 della licenza, sia (a tua scelta) qualsiasi versione successiva.
 
@@ -20,4 +44,3 @@ In aggiunta alla Licenza Pubblica Generale GNU, ti offriamo alcune eccezioni.
 **Sezione 3**: Questo software può contenere elementi di software rilasciati sotto licenze diverse dalla Licenza Pubblica Generale GNU. In tali casi, i termini di queste licenze si applicano ai suddetti elementi di software.
 
 Per maggiori dettagli sulla Licenza Pubblica Generale GNU, visita: [https://www.gnu.org/licenses/old-licenses/gpl-2.0.html](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-
